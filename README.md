@@ -1,1 +1,1 @@
-# Paul Tokhtuev's Game Devolopment Portfolio 2024-25
+# Paul Tokhtuev's Game Development Portfolio 2024-25
